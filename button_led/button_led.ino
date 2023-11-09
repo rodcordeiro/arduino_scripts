@@ -1,5 +1,5 @@
-#define LED_PIN 8
-#define BTN_PIN 9
+#define LED_PIN 10
+#define BTN_PIN 7
 
 void setup()
 {

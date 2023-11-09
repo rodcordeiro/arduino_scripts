@@ -1,4 +1,4 @@
-int ledPin = 8;
+int ledPin = 10;
 
 //For letters
 char* letters[] = {
